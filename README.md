@@ -104,9 +104,3 @@ The app should now be running locally at \`http://localhost:3000\`.
 
 This project is licensed under the MIT License.
 
-# Saving the documentation to a markdown file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(documentation)
-
-file_path
